@@ -1,6 +1,7 @@
 # Proyecto-PyMN-2020
-# UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA 
+#Universidad Autónoma de Baja California
 
-PROYECTO FINAL 
+PROYETO FINAL
 
-Este es el proyecto final donde se presentarán  los trabajos realizados en el transcurso del semestre. 
+
+Este es el proyecto final donde se presentarán  los trabajos  realizados en el transcurso del semestre. 
