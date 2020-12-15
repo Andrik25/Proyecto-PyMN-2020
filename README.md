@@ -1,2 +1,6 @@
-# Proyecto-de-programaci-n-y-m-todos-num-ricos.
-Este repositorio tendrá todas las practicas que se llevaron en el transcurso del semestre con la finalidad de mostrar la dedicación y el empeño en cada trabajo.
+# Proyecto-PyMN-2020
+# UNIVERSIDAD AUTONOMA DE BAJA CALIFORNIA 
+
+PROYECTO FINAL 
+
+Este es el proyecto final donde se presentarán  los trabajos realizados en el transcurso del semestre. 
