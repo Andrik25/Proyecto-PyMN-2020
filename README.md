@@ -33,3 +33,5 @@ Este es el proyecto final donde se presentarán  los trabajos  realizados en el 
 *[Práctica 5 – Métodos cerrados](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P5-Metodos-cerrados.)
 
 *[Práctica 6 - Métodos de Newton-Rhapson y de la Secante](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P6-Metodos-de-Newton-Rhapson-y-de-la-Secante.)
+
+*[Práctica 10 – Derivación Numérica ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P10-Derivacion-numerica.)
