@@ -11,7 +11,7 @@ Este es el proyecto final donde se presentarán  los trabajos  realizados en el 
 *[Práctica 1- Calcular la fuerza de atracción de una persona ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P1-CALCULAR-LA-FUERZA-DE-ATRACCION-DEL-PESO-DE-UNA-PERSONA.)
 
 *[Práctica 1 – Volumen  de una esfera](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P1-Volumen-de-una-esfera.c)
-*
+
 *[Práctica 2 – Ecuación cuadrática](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P2-Ecuacion-Cuadratica.)
 
 *[Práctica 2 – Impuestos](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P2-IMPUESTOS.c)
