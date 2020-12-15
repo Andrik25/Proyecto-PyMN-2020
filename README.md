@@ -21,3 +21,15 @@ Este es el proyecto final donde se presentarán  los trabajos  realizados en el 
 *[Práctica 2 – Secretaria de salud ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P2-SECRETARIA-DE-SALUD.c)
 
 *[Práctica 2 – Supermercado ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P2-SUPERMERCADO.)
+
+*[Práctica 3 – Cuatro cifras](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P3-4-cifras.)
+
+*[Práctica 3 – Número Áureo ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P3-Numero-Aureo.c)
+
+*[Práctica 3 – Número Binario ](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P3-Numero-Binario.)
+
+*[Práctica 4 – P4](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P4.)
+
+*[Práctica 5 – Métodos cerrados](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P5-Metodos-cerrados.)
+
+*[Práctica 6 - Métodos de Newton-Rhapson y de la Secante](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/P6-Metodos-de-Newton-Rhapson-y-de-la-Secante.)
