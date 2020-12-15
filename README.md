@@ -38,4 +38,5 @@ Este es el proyecto final donde se presentarán  los trabajos  realizados en el 
 
 *[Práctica 11 -  Método de  Jacobi](https://github.com/Andrik25/Proyecto-PyMN-2020/blob/main/Practica-11.)
 
-*[Práctica 11 -  Método de Gauss  Seidel](https://github.com/Andrik25/Proyecto-PyMN-2020/commit/)
+*[Práctica 11 -  Método de Gauss  Seidel](https://github.com/Andrik25/Proyecto-PyMN-2020/commit/eed41bb5888d9f448cd95811d089c177d3a15f03)
+
